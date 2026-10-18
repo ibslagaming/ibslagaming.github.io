@@ -1,8 +1,8 @@
 # iBSLA Gaming — links
 
-Link-in-bio page for **iBSLA Gaming** (@ibslagaming): TikTok, YouTube, Instagram, Pinterest and the Cresl Studio kids books.
+Link-in-bio page for **iBSLA Gaming** (@ibslagaming): daily gaming clips (TikTok, YouTube, Instagram, Threads, Pinterest) and the shop.
 
 - Live: https://ibslagaming.github.io/
 - Mirror: https://ibslagaming.sites.tab.bot/
 
-Plain static HTML/CSS served by GitHub Pages from the `main` branch. As an Amazon Associate I earn from qualifying purchases.
+Plain static HTML/CSS served by GitHub Pages from the `main` branch.
