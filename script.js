@@ -1,7 +1,7 @@
 (function(){
   var tabs=[].slice.call(document.querySelectorAll('.tab'));
   var panels={links:document.getElementById('links'),shop:document.getElementById('shop')};
-  var bar=document.querySelector('.tabs');
+  var bar=document.querySelector('.tabs');if(!bar)return;
   function show(name,push){
     if(!panels[name]) name='links';
     tabs.forEach(function(t){var on=t.dataset.tab===name;t.setAttribute('aria-selected',on);t.tabIndex=on?0:-1;});
